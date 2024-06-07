@@ -1,2 +1,4 @@
 # conky
-My Conky config
+My conky config.
+
+![screenshot.jpg](screenshot.jpg)
